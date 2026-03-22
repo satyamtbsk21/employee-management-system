@@ -1,0 +1,3 @@
+[submodule "frontend"]
+  path = frontend
+  url = https://github.com/satyamtbsk21/employee-management-system-frontend.git
